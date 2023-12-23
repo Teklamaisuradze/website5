@@ -1,0 +1,45 @@
+/*
+
+
+selector {
+    property : value ;
+}
+
+*/
+
+
+.title {
+    color: blue;
+}
+
+
+footer {color: antiquewhite;}
+
+
+footer {background-color: rgb(59, 7, 4);}
+
+
+p {color: rgb(179, 24, 218);}
+
+
+#logo {width: 80px;
+/* height: 80px; */
+}
+ 
+header {background-color: rgb(211, 206, 206);
+padding-top: 15px ;
+padding-bottom: 15px;
+padding-left: 20px;
+padding-right: 20px;
+margin-bottom: 15px;
+display: flex;
+justify-content: space-between ;
+align-items: center;
+
+}
+
+ul { display: flex;
+list-style: none;
+gap: 30px;
+
+}
